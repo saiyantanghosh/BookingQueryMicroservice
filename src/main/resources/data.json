@@ -1,0 +1,103 @@
+[
+  {
+    "customerId": "1b07777d-22f2-4607-ba43-acdd4140291e",
+    "name": "Christina",
+    "readingBooks": [
+      {
+        "isbn": "9355422369",
+        "name": "Building Evolutionary Architectures",
+        "pages": 264,
+        "language": "English",
+        "genre": "Technical",
+        "authors":[ {
+          "firstName": "Neal",
+          "lastName": "Ford"
+        },
+          {
+            "firstName": "Rebecca",
+            "lastName": "Parsons"
+          },
+          {
+            "firstName": "Patrick",
+            "lastName": "Kua"
+          }],
+        "publisher": {
+          "name": "Shroff Publishers and Distributors Pvt. Ltd.",
+          "registrationNumber": 9826238484944,
+          "address": {
+            "line1": "B-102,First Floor,RailWay Commercial Complex",
+            "line2": "Sector 3,Sanpada",
+            "city": "Navi Mumbai"
+          }
+        },
+        "readingStats": {
+          "readingPercentage": 50,
+          "timeRemainingToFinish": 30
+        }
+      },
+      {
+        "isbn": "0134494164",
+        "name": "Clean Architecture",
+        "pages": 432,
+        "language": "English",
+        "genre": "Technical",
+        "authors":[ {
+          "firstName": "Robert",
+          "lastName": "Martin"
+        }],
+        "publisher": {
+          "name": "Pearson",
+          "registrationNumber": 9826238484945,
+          "address": {
+            "line1": "Featherlite, ‘The Address’ 5th Floor, Survey",
+            "line2": "No 203/10B, 200 Ft MMRD Road, Zamin,",
+            "city": "Chennai",
+            "pinCode": 600044
+          }
+        },
+        "readingStats": {
+          "readingPercentage": 50,
+          "timeRemainingToFinish": 30
+        }
+      }
+    ]
+  }, {
+    "customerId": "becd6974-aeef-4986-b6ec-f10d5763f11c",
+    "name": "Raman",
+    "readingBooks": [
+      {
+        "isbn": "9355420900",
+        "name": "Head First Java",
+        "pages": 756,
+        "language": "English",
+        "genre": "Technical",
+        "authors":[ {
+          "firstName": "Kathey",
+          "lastName": "Sierra"
+        },
+          {
+            "firstName": "Bert",
+            "lastName": "Bates"
+          },
+          {
+            "firstName": "Trisha",
+            "lastName": "Gee"
+          }],
+        "publisher": {
+          "name": "Shroff Publishers and Distributors Pvt. Ltd.",
+          "registrationNumber": 9826238484944,
+          "address": {
+            "line1": "B-102,First Floor,RailWay Commercial Complex",
+            "line2": "Sector 3,Sanpada",
+            "city": "Navi Mumbai",
+            "street": null,
+            "pinCode": 400705
+          }
+        },
+        "readingStats": {
+          "readingPercentage": 50,
+          "timeRemainingToFinish": 30
+        }
+      }
+    ]
+  }]
